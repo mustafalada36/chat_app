@@ -1,16 +1,14 @@
 # chat_app
 
-A new Flutter project.
+A Flutter Project allows the user to sign up, sign in with a registered email, and chat with anyone who is registered in the app.
+The main purpose of a chat app is to talk to anyone in real time. The users will get push notifications when a message arrives in the chat.
 
-## Getting Started
+## Purpose :-
+1- Authentication using Firebase
+2- Firestore Database for storing data 
+3- Push Notification or Firebase Cloud Messaging
 
-This project is a starting point for a Flutter application.
+#coding #learning #flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
